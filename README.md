@@ -1,4 +1,4 @@
-# GoMechanic
+# GoMechanic!
 
 ## Purpose
 #### Go-Mechanic is a web application which allows users to find and contact mechanics in their area to perform a repair service. 
